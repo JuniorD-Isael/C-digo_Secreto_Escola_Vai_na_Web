@@ -124,17 +124,17 @@ O `main.py` é o arquivo central que coordena a execução do sistema. Ele impor
 - O programa exibe uma saudação inicial e o menu de opções.
 - O usuário escolhe uma opção e o programa chama a função correspondente.
 - O menu contém as seguintes opções:
-    1. Verificar aprovação de um aluno.
-    2. Verificar elegibilidade para votar.
-    3. Classificação das provas.
-    4. Somar dois valores.
-    5. Validar a senha do cofre da escola.
-    6. Verificar dados processados.
-    7. Organizar lista de números.
-    8. Acessar registros dos alunos.
-    9. Calcular o dobro de um número.
+    1.  Verificar aprovação de um aluno.
+    2.  Verificar elegibilidade para votar.
+    3.  Classificação das provas.
+    4.  Somar dois valores.
+    5.  Validar a senha do cofre da escola.
+    6.  Verificar dados processados.
+    7.  Organizar lista de números.
+    8.  Acessar registros dos alunos.
+    9.  Calcular o dobro de um número.
     10. Contar o número de letras no nome de um aluno.
-    0. Encerrar o programa.
+    0.  Encerrar o programa.
 
 ## Como Executar
 
