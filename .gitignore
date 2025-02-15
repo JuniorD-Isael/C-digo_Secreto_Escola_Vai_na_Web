@@ -1,0 +1,42 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Cython build files
+*.c
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# VSCode settings folder
+.vscode/
+
+# Ruff and Mypy configuration files (if not needed in version control)
+*.ruff
+mypy_cache/
+.pyre/
+
+# Logs and temporary files
+*.log
+*.pot
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
