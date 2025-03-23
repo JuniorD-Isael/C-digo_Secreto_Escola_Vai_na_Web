@@ -56,7 +56,9 @@ def validar_dados_processados():
         cont += 1
 
 def classificacao_das_notas(nota):
-    if nota >= 90:
+    if nota > 100 or nota < 0:
+        print("Valor inválido!")
+    elif nota >= 90:
         print("Parabéns, você tirou A!")
     elif nota >= 80:
         print("Muito bem, você tirou B.")
